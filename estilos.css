@@ -1,0 +1,16 @@
+body {
+    background-color: #db7878;
+     font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+    justify-content: left;
+    height: 100vh;
+    margin: 0;
+
+
+}
+.boton-grande {
+    display: inline-block;    
+    padding: 15px 32px; 
+}
